@@ -146,8 +146,8 @@ real-time-stocks-pipeline/
 
 ---
 
-**Author**: *Jaya Chandra Kadiveti* 
+**Author**: *Maha Hassanin* 
 
-**LinkedIn**: [username](https://www.linkedin.com/in/jayachandrakadiveti/) 
+**LinkedIn**: [username](https://www.linkedin.com/in/mahahas/) 
 
-**Contact**: [datawithjay1@gmail.com](mailto:datawithjay1@gmail.com)
+**Contact**: [mahahas20022@gmail.com]
